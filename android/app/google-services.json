@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944325399193",
+    "project_id": "endsem-ec83d",
+    "storage_bucket": "endsem-ec83d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944325399193:android:5c8b226fd3fcceba9d1e08",
+        "android_client_info": {
+          "package_name": "com.example.cse23523"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY7bRpcwlw9q6Ic4AmIwF0PFJAj6giYRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
